@@ -54,22 +54,3 @@ for item in clean:
     count = count + 1
 else:
     print("Finnished creating tasks in Jira")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
